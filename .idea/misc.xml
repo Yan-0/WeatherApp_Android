@@ -1,0 +1,45 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NES_app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.131" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NES_app/app/src/main/res/drawable/centigrade.xml" value="0.1315" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NES_app/app/src/main/res/drawable/conditions.xml" value="0.131" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NES_app/app/src/main/res/drawable/humidity.xml" value="0.131" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NES_app/app/src/main/res/drawable/loctaion.xml" value="0.1315" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NES_app/app/src/main/res/drawable/rain.xml" value="0.131" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NES_app/app/src/main/res/drawable/sea.xml" value="0.131" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NES_app/app/src/main/res/drawable/search.xml" value="0.1315" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NES_app/app/src/main/res/drawable/searchviewshape.xml" value="0.1315" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NES_app/app/src/main/res/drawable/white_cloud.xml" value="0.131" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NES_app/app/src/main/res/drawable/wind.xml" value="0.131" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NES_app/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NES_app/app/src/main/res/layout/animation_layout.xml" value="0.2" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NES_app/app/src/main/res/layout/content_main.xml" value="0.1403985507246377" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NES_app/app/src/main/res/layout/fragment_first.xml" value="0.13360507246376813" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NES_app/app/src/main/res/layout/fragment_second.xml" value="0.13360507246376813" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NES_app/app/src/main/res/layout/home.xml" value="0.25" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NES_app/app/src/main/res/layout/home_page.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NES_app/app/src/main/res/layout/linear_layout.xml" value="0.22333333333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NES_app/app/src/main/res/layout/login_layout.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NES_app/app/src/main/res/layout/register_layout.xml" value="0.22333333333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NES_app/app/src/main/res/layout/relative_layout.xml" value="0.22333333333333336" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NES_app/app/src/main/res/menu/menu_main.xml" value="0.2" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/NES_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22333333333333336" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

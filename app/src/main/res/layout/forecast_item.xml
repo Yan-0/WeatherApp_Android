@@ -1,0 +1,101 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:baselineAligned="false"
+    android:orientation="horizontal"
+    android:weightSum="4"
+    >
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_marginBottom="5dp"
+        android:background="@color/transparent"
+        android:layout_weight="1"
+        >
+
+        <TextView
+            android:id="@+id/dateView"
+            android:layout_width="72dp"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/transparent"
+        android:paddingVertical="5dp"
+        android:layout_weight="1"
+        >
+
+        <ImageView
+            android:id="@+id/highTempIcon"
+            android:layout_width="30dp"
+            android:layout_height="15dp"
+            android:importantForAccessibility="no"
+            android:src="@drawable/thermometer"
+            />
+
+        <TextView
+            android:id="@+id/highTempView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginStart="4dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/transparent"
+        android:paddingVertical="5dp"
+        android:layout_weight="1"
+        >
+
+        <ImageView
+            android:id="@+id/lowTempIcon"
+            android:layout_width="30dp"
+            android:layout_height="15dp"
+            android:importantForAccessibility="no"
+            android:src="@drawable/thermometer"/>
+
+        <TextView
+            android:id="@+id/lowTempView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginStart="4dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/transparent"
+        android:paddingVertical="5dp"
+        android:layout_weight="1"
+        >
+
+        <ImageView
+            android:id="@+id/precipIcon"
+            android:layout_width="30dp"
+            android:layout_height="15dp"
+            android:importantForAccessibility="no"
+            android:src="@drawable/cloud_rain"/>
+
+        <TextView
+            android:id="@+id/precipView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginStart="4dp"/>
+    </LinearLayout>
+
+</LinearLayout>
