@@ -32,7 +32,7 @@ public class HomeActivity extends AppCompatActivity {
     private static final int LOCATION_PERMISSION_REQUEST_CODE = 1;
     private FusedLocationProviderClient fusedLocationClient;
 
-    private final String API = "2c2f66f576214a88ae92184d4134b59c";
+    private final String API = "WeatherBit API KEY";
 
     private ImageView search;
     private EditText etCity;
